@@ -1,0 +1,5 @@
+geometry=C10H8.xyz
+basis=cc-pV(T+d)Z-PP
+df-rhf
+df-mp2
+
